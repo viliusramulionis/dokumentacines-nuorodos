@@ -17,3 +17,38 @@
 	var masyvas = [1,2,3,4,5];
 	Masyvai, reiksmiu pritaikymas jiems:
 	https://www.w3schools.com/js/js_arrays.asp
+	
+	
+## 2020-06-29
+	document.getElementById('indentifikatorius').innerHTML = "Paragraph changed!";
+	Html kodo arba teksto įkėlimas i pasirinkto elemento vidų.
+	https://www.w3schools.com/jsref/prop_html_innerhtml.asp
+	
+	document.getElementById('indentifikatorius').value 
+	Pasirinkto elemento reikmes grazinimas
+	https://www.w3schools.com/jsref/prop_text_value.asp
+	
+	moduliai
+	https://riptutorial.com/javascript/example/760/remainder---modulus----
+	
+	Masyvai
+	https://www.w3schools.com/js/js_arrays.asp
+	
+	Operatoriai = + - * /
+	https://www.w3schools.com/js/js_operators.asp
+	
+	Funkcijos
+	https://www.w3schools.com/js/js_functions.asp
+	
+## 2020-06-30
+	
+	Konstantos
+	https://www.w3schools.com/js/js_const.asp
+	
+	Let
+	https://www.w3schools.com/js/js_let.asp
+	
+	Variables
+	https://www.w3schools.com/js/js_variables.asp
+	
+	
