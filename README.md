@@ -51,4 +51,6 @@
 	Variables
 	https://www.w3schools.com/js/js_variables.asp
 	
-	
+## 2020-07-01
+	onclick vs addEventListener('click')
+	https://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick#:~:text=Essentially%20onclick%20is%20a%20HTML,(using%20this%20for%20example).
