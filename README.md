@@ -54,3 +54,15 @@
 ## 2020-07-01
 	onclick vs addEventListener('click')
 	https://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick#:~:text=Essentially%20onclick%20is%20a%20HTML,(using%20this%20for%20example).
+	
+	while / do while ciklai
+	https://www.w3schools.com/js/js_loop_while.asp
+	
+	For ciklas
+	https://www.w3schools.com/js/js_loop_for.asp
+	
+	For in ciklas (Paimam objektą)
+	https://www.w3schools.com/js/js_loop_forin.asp
+	
+	Switch
+	https://www.w3schools.com/js/js_switch.asp
