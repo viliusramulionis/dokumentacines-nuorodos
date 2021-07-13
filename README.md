@@ -40,7 +40,7 @@
 	Funkcijos
 	https://www.w3schools.com/js/js_functions.asp
 	
-## 2020-06-30
+## 2021-06-30
 	
 	Konstantos
 	https://www.w3schools.com/js/js_const.asp
@@ -51,7 +51,7 @@
 	Variables
 	https://www.w3schools.com/js/js_variables.asp
 	
-## 2020-07-01
+## 2021-07-01
 	onclick vs addEventListener('click')
 	https://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick#:~:text=Essentially%20onclick%20is%20a%20HTML,(using%20this%20for%20example).
 	
@@ -66,3 +66,19 @@
 	
 	Switch
 	https://www.w3schools.com/js/js_switch.asp
+	
+	
+## 2021-07-09	
+	https://api.jquery.com/jQuery.inarray/
+	
+	https://www.w3schools.com/jsref/jsref_push.asp
+	
+## 2021-07-12
+	Cookies (Sausainėliai)
+	https://www.w3schools.com/js/js_cookies.asp
+	
+	Date();
+	https://www.w3schools.com/jsref/jsref_obj_date.asp
+	
+	decodeURIComponent()
+	https://www.w3schools.com/jsref/jsref_decodeuricomponent.asp
