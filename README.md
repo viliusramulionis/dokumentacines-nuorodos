@@ -82,3 +82,62 @@
 	
 	decodeURIComponent()
 	https://www.w3schools.com/jsref/jsref_decodeuricomponent.asp
+
+## 2021-07-14
+
+	jQuery animate
+	https://api.jquery.com/animate/
+	
+	Javascript Math.floor()
+	https://www.w3schools.com/jsref/jsref_floor.asp
+	
+	Math.min()
+	https://www.w3schools.com/jsref/jsref_min.asp
+	
+	Math.max()
+	https://www.w3schools.com/jsref/jsref_max.asp
+	
+## 2021-07-26
+	
+	split()
+	https://www.w3schools.com/jsref/jsref_split.asp
+	
+	replace()
+	https://www.w3schools.com/jsref/jsref_replace.asp
+	
+	length
+	https://www.w3schools.com/jsref/jsref_length_string.asp
+	
+	charAt()
+	https://www.w3schools.com/jsref/jsref_charat.asp
+	
+	substr()
+	https://www.w3schools.com/jsref/jsref_substr.asp
+	
+	slice()
+	https://www.w3schools.com/jsref/jsref_slice_string.asp
+	
+	toLowerCase()
+	https://www.w3schools.com/jsref/jsref_tolowercase.asp
+	
+	toUpperCase()
+	https://www.w3schools.com/jsref/jsref_touppercase.asp
+	
+	trim()
+	https://www.w3schools.com/jsref/jsref_trim_string.asp
+	
+	startsWidth() true / false
+	https://www.w3schools.com/jsref/jsref_startswith.asp
+	
+	endsWidth() true / false
+	https://www.w3schools.com/jsref/jsref_endswith.asp
+	
+	includes  true / false
+	https://www.w3schools.com/jsref/jsref_includes.asp
+	
+	indexOf() ir search() - skirtumas tik toks, kad search leidžia naudoti regex
+	https://www.w3schools.com/jsref/jsref_indexof.asp
+	https://www.w3schools.com/jsref/jsref_search.asp
+	
+	lastIndexOf()
+	https://www.w3schools.com/jsref/jsref_lastindexof.asp
